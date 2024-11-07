@@ -13,3 +13,6 @@ The system monitors real-time sensor data to detect anomalies in temperature and
 - **Safety checks** to ensure reactor conditions are within acceptable ranges.
 - **Logging of anomalies** for further analysis and troubleshooting.
 
+## Demo Video
+Watch the demo video of the alarm system in action:
+[![Watch the demo video](https://img.youtube.com/vi/O_0opxW6VDA/0.jpg)](https://youtu.be/O_0opxW6VDA)
