@@ -15,4 +15,5 @@ The system monitors real-time sensor data to detect anomalies in temperature and
 
 ## Demo Video
 Watch the demo video of the alarm system in action:
-[![Watch the demo video](https://img.youtube.com/vi/O_0opxW6VDA/0.jpg)](https://youtu.be/O_0opxW6VDA)
+[![Watch the demo video]
+(https://img.youtube.com/vi/O_0opxW6VDA/0.jpg)](https://youtu.be/O_0opxW6VDA)
